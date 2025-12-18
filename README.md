@@ -29,8 +29,10 @@ cd payment-backend
 
 # Install NPM packages
 npm install
+```
 
 ### 3. ENV file
+- Create env file
 # .env
 PORT=3000
 DB_USER=postgres
